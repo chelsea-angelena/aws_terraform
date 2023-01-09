@@ -10,3 +10,4 @@ pyenv.cfg
 .env
 .env.dev
 .env.local
+.tfvars
