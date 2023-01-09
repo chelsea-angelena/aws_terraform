@@ -11,3 +11,7 @@ pyenv.cfg
 .env.dev
 .env.local
 .tfvars
+.terraform
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tf.state.backup
