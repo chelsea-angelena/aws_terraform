@@ -1,0 +1,13 @@
+aws_transfer_family_server=
+aws_default_region=
+aws_transfer_user=
+aws_transfer_user_role=
+aws_home_directory
+aws_endpoint_type=
+aws_security_policy_name=
+aws_identity_provider_type=
+aws_domain=
+aws_pre_authentication_login_banner=
+aws_post_authentication_login_banner=
+aws_protocols=
+TF_VAR_SSH_KEY_PUB
