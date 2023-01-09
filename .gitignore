@@ -1,0 +1,12 @@
+__pycache__
+include
+lib
+venv
+__pycache__
+
+site-packages
+localstack
+pyenv.cfg
+.env
+.env.dev
+.env.local
