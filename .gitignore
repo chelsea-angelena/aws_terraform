@@ -14,4 +14,4 @@ pyenv.cfg
 .terraform
 .terraform.lock.hcl
 terraform.tfstate
-terraform.tf.state.backup
+terraform.tfstate.backup
